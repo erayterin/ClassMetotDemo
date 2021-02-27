@@ -10,5 +10,6 @@ namespace ClassMetotDemo
         public string Ad { get; set; }
         public string Soyad { get; set; }
         public double Bakiye { get; set; }
+        public string HesapNo { get; set; }
     }
 }
